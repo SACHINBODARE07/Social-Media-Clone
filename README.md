@@ -60,5 +60,4 @@ MongoDB, Express, React, Redux, Node.js are used in this project.
     - To run frontend type command `npm start` in `/client` folder.
 6.  Open  [localhost:3000](http://localhost:3000/)  in the browser.
  **And application will be up and running.**
-![explore page](https://user-images.githubusercontent.com/72184791/114161321-8a7a5c00-9945-11eb-8c67-bf42a8f30fcd.JPG)
 
