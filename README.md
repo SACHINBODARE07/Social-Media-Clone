@@ -1,5 +1,5 @@
 # MERN Social Media Complete Project
-**Created by:** [Sachin Bodare](https://www.linkedin.com/in/sachinbodare)  
+**Created by:** [Sachin Shankar Bodare](https://www.linkedin.com/in/sachinbodare)  
 **Portfolio:** [https://sachinbodare-portfolio.netlify.app/](https://sachinbodare-portfolio.netlify.app/)  
 **GitHub:** [https://github.com/sachinbodare](https://github.com/sachinbodare)
 
